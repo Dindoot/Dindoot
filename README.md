@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi, I'm Dindoot Welcome to My GitHub profile. 👋
 
 ![Header](https://te.legra.ph/file/b2603527582fd5408d894.jpg)
 
@@ -10,6 +10,10 @@ everyone else.
 I do what I want if I'm in a good mood, you know. 
 I'm a lazy person. Yes, right.
 ```
+
+<a href="https://open.spotify.com/user/uf4sfk37elcwr2px2w9q72fpk" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=tgymctc9gtq4k8oyows4cw5hu&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
+  </p>
+
 
 **:email: You can find me on:**
 
