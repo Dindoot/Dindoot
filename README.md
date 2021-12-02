@@ -11,10 +11,6 @@ I do what I want if I'm in a good mood, you know.
 I'm a lazy person. Yes, right.
 ```
 
-<a href="https://open.spotify.com/user/uf4sfk37elcwr2px2w9q72fpk" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=12DnamYOhIGMY6wt7Fy7mm&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
-  </p>
-
-
 **:email: You can find me on:**
 
 [![TG](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Ohhabbang)](https://t.me/Ohhabbang) <br />
