@@ -11,7 +11,7 @@ I do what I want if I'm in a good mood, you know.
 I'm a lazy person. Yes, right.
 ```
 
-<a href="https://open.spotify.com/user/uf4sfk37elcwr2px2w9q72fpk" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=tgymctc9gtq4k8oyows4cw5hu&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
+<a href="https://open.spotify.com/user/uf4sfk37elcwr2px2w9q72fpk" > <img src="https://spotify-github-profile.vercel.app/api/view?uid=50trLU8inOxR7cnRitsW8x?si=bc398225a97f42a2&cover_image=true&theme=novatorem" alt="Spotify-Now" /></a>
   </p>
 
 
